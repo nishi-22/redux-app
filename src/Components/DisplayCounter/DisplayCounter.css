@@ -1,0 +1,9 @@
+.DisplayCounter{
+    width:100%;
+    background-color: darkslategray;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    font-size:30px; 
+    box-sizing: border-box;
+}
